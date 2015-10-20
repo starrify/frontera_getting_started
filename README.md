@@ -1,6 +1,6 @@
 ## Tasks
 
-1. *TODO* Using `SQLAlchemyBackend` try to add there `score` field to the
+1. *DONE* Using `SQLAlchemyBackend` try to add there `score` field to the
    table, put some code on the spider side calculating that score, and make it
    crawl records with higher score first. 
 
